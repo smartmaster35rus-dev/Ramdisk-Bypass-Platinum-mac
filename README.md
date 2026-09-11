@@ -1,4 +1,4 @@
-# Ramdisk Bypass Platinum (macOS)
+# Ramdisk Research Platinum (macOS)
 
 Releases: installer **DMG only** — tag format `v.{version}`.
 
