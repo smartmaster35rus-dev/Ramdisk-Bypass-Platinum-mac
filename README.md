@@ -1,5 +1,71 @@
-# Ramdisk Research Platinum (macOS)
+# Ramdisk Research Platinum
 
-Releases: installer **DMG only** — tag format `v.{version}`.
+**Ramdisk research catalog & tooling — macOS**
 
-Support: [t.me/SmartMaster35Rus](https://t.me/SmartMaster35Rus)
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac?label=macOS&style=for-the-badge)](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple)](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
+
+<p align="center">
+
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases/latest) В· [рџЌЋ A12–A13 erase tool](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
+
+---
+
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+
+**Ramdisk Research Platinum (macOS)** — каталог и инструменты ramdisk-исследований для Apple-устройств: загрузка, SSH, диагностика.
+
+## рџ‡¬рџ‡§ About
+
+macOS ramdisk research catalog and tooling for supported Apple devices.
+
+---
+
+## вњЁ Key features
+
+| Feature | Description |
+|---------|-------------|
+| 💾 **Ramdisk catalog** | IPSW / ramdisk reference |
+| 🔧 **SSH workflows** | Boot, mount, diagnostics |
+| 📱 **Device support** | Multiple SoC generations |
+| 🔄 **Updates** | GitHub Releases |
+
+---
+
+## в¬‡пёЏ Download
+
+**[Releases](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases/latest)**
+
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
+
+## рџ“‹ Requirements
+
+- **macOS**
+- USB / DFU-capable device
+- See catalog for per-model notes
+
+## рџ”— Related links
+
+| Resource | URL |
+|----------|-----|
+| A12–A13 erase tool | [A12-13-Ramdisk-Erase-tool-Platinum-mac](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-mac) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
