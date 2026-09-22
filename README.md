@@ -8,7 +8,7 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases/latest) В· [рџЌЋ A12–A13 erase tool](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac/releases/latest) · [🍎 A12–A13 erase tool](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-mac/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
